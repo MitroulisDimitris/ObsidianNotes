@@ -1,0 +1,1 @@
+**Logistic Regression** is a supervised machine learning algorithm primarily used for binary classification tasks, though it can be extended to multiclass classification. Despite the name, it is actually a **classification** algorithm, not a regression algorithm.

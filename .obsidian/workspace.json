@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5f8ad67fcb9dffb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae76c72e77105a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b30da4b3444fc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Electron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15c9b8b2351cb4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Best Practices- transactions JDBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e5ceceb2b6f52da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a523ebb96dd12b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c537b7c3d7438d31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4787cf0a6d2a4d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "487da1248d4b8f22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1154ca7ca0b46e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "086f2dd5c26b7b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278ad53bc0e9862c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Best Practices- transactions JDBC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ee9ab19345db0f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Best Practices- transactions JDBC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb4fef7a5631d8a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffaafccac4f3ad94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Best Practices- transactions JDBC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c537b7c3d7438d31",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20241001133055.png",
+    "Java/DAO Design Pattern.md",
+    "Java/Best Practices- transactions JDBC.md",
+    "Pasted image 20241001132811.png",
+    "European Dynamics/Climada.md",
+    "Java/Basics.md",
+    "Java/Typescript.md",
+    "Java/Notes.md",
+    "European Dynamics/Enviroments-Links.md",
+    "Pasted image 20240930113354.png",
+    "Pasted image 20240930113200.png",
+    "Pasted image 20240930113206.png",
+    "Pasted image 20240926145039.png",
+    "European Dynamics",
+    "Image classification.md",
+    "Lesson outline.md",
+    "Java/Electron.md",
+    "Java/Java Persistance with Hibernate (BOOK).md",
+    "Java/Angular in Action.md",
+    "Java/Apache Maven 3.md",
+    "Java/Java spring.md",
+    "1. Machine Learning/1. Supervised Learning/Classification/KNN.md",
+    "Java",
+    "1. Machine Learning/1. Supervised Learning/Regression/Linear regression.md",
+    "1. Machine Learning/1. Supervised Learning/Classification/Untitled.canvas",
+    "1. Machine Learning/1. Supervised Learning/Classification/Logistic regression.md",
+    "1. Machine Learning/2. Unsupervised Learning/Clustering/K-means.md",
+    "1. Machine Learning/1. Supervised Learning/Classification/K-NN/Untitled.md",
+    "1. Machine Learning/1. Supervised Learning/Classification/K-NN",
+    "2. ML techiques.md",
+    "2. ML techniques/4. Hyperparameter tuning",
+    "2. ML techniques/3. Optimization",
+    "2. ML techniques/2. Model Evaluation",
+    "2. ML techniques/1. Preprocessing",
+    "2. ML techniques",
+    "Machine Learning/Untitled",
+    "1. Machine Learning/5. Neural Networks - DL/5.5 Generative Adversarial Networks",
+    "Machine Learning/2. Unsupervised Learning/Untitled.canvas",
+    "Machine Learning/ML Algorithms/Neural Networks/Supervised Learning/Untitled.md"
+  ]
+}
