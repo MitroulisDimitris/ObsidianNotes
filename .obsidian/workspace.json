@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Electron.md",
+                "file": "Java/ORM with Hibernate.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Best Practices- transactions JDBC.md",
+                "file": "Java/ACID properties.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Best Practices- transactions JDBC.md",
+                "file": "Java/ORM with Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Best Practices- transactions JDBC.md",
+                "file": "Java/ORM with Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Best Practices- transactions JDBC.md"
+                "file": "Java/ORM with Hibernate.md"
               }
             }
           }
@@ -159,15 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c537b7c3d7438d31",
+  "active": "0b30da4b3444fc6a",
   "lastOpenFiles": [
+    "Java/Electron.md",
+    "Java/ACID properties.md",
+    "Java/Basics.md",
+    "Java/Apache Maven 3.md",
+    "Java/Angular in Action.md",
+    "Java/ORM with Hibernate.md",
     "README.md",
     "Pasted image 20241001133055.png",
     "Java/DAO Design Pattern.md",
-    "Java/Best Practices- transactions JDBC.md",
     "Pasted image 20241001132811.png",
     "European Dynamics/Climada.md",
-    "Java/Basics.md",
     "Java/Typescript.md",
     "Java/Notes.md",
     "European Dynamics/Enviroments-Links.md",
@@ -178,10 +181,6 @@
     "European Dynamics",
     "Image classification.md",
     "Lesson outline.md",
-    "Java/Electron.md",
-    "Java/Java Persistance with Hibernate (BOOK).md",
-    "Java/Angular in Action.md",
-    "Java/Apache Maven 3.md",
     "Java/Java spring.md",
     "1. Machine Learning/1. Supervised Learning/Classification/KNN.md",
     "Java",
