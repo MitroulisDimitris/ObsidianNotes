@@ -77,4 +77,8 @@ Java persistence API is a specification for ORM. defines a standard way to map j
 @ JoinColumn ->Specifies the Foreign key Column
 @ @Table(name = "USERS", uniqueConstraints = {@UniqueConstraint(columnNames = "email")}) -> Ensures a colum, set of columns must be unique
 
+Fetch types
+- LAZY: Loads related entities **on demand**
+- EAGER: Entities are loaded **immediately** when parent entity is loaded
+- 
 

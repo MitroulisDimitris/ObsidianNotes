@@ -14,3 +14,15 @@ Used for:
 - Large projects
 - CI/CID
 -  Extend Vanilla Java
+
+**Project Structure:**
+```
+my-app/
+├── pom.xml
+└── src/
+    ├── main/
+    │   └── java/
+    └── test/
+        └── java/
+
+```
