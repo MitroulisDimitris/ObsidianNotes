@@ -26,3 +26,16 @@ my-app/
         └── java/
 
 ```
+
+### **Maven lifecycle commands:** 
+
+- **Clean**: removes all files from previous builds 
+- **Validate**: Checks if the project is correct and all necessary information is availabe
+- **Complile**: Compiles source code
+- **Test**: Runs unit tests (Do not require code deployment)
+- **Package**: Packages compiled code in a jara/war
+- **Verify**: Runs all checks to verify validity of project
+- **Install**: Installs the package into local mvn repo
+- **Site**: Creates documentation for the project based on source code and configutaion
+- **Deploy**: Copies the final package to a remote repo so that it can be deployed/used elsewere etc.
+

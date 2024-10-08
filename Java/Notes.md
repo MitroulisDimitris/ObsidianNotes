@@ -207,6 +207,3 @@ ACID properties
 **D**urability
 to ensure all actions leave the database in a valid state in case of unepected errors
 
-
-
-**11.**  **Interview problems (Leetcode, HackerRank)**

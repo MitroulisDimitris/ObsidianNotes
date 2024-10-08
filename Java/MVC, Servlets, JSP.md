@@ -1,4 +1,4 @@
-1. **Servlets**
+spo1. **Servlets**
 - Java programs that run on a server and handle client requets 
 - Backbone of Java web apps (Dynamic content creation, Http requests)
 **Purpose**

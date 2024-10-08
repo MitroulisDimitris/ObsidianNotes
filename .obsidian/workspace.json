@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eae76c72e77105a6",
+        "id": "0f9e0b9b6f30b490",
         "type": "tabs",
         "children": [
           {
-            "id": "0b30da4b3444fc6a",
+            "id": "deea37ecbe417910",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/MVC, Servlets, JSP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/MVC, Servlets, JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/MVC, Servlets, JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/MVC, Servlets, JSP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,20 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b30da4b3444fc6a",
+  "active": "c537b7c3d7438d31",
   "lastOpenFiles": [
+    "2024-10-08.md",
     "Java/Spring.md",
-    "Java/Apache Tomcat.md",
+    "Pasted image 20241008141929.png",
+    "Pasted image 20241008141505.png",
     "Java/MVC, Servlets, JSP.md",
+    "Java/ORM with Hibernate.md",
     "Java/Typescript.md",
+    "Java/Notes.md",
     "Java/ACID properties.md",
-    "Java/Angular in Action.md",
-    "Java/Apache Maven 3.md",
     "Java/DAO Design Pattern.md",
     "Java/Electron.md",
-    "Java/ORM with Hibernate.md",
-    "Java/Notes.md",
     "Java/Basics.md",
+    "Java/Apache Maven 3.md",
+    "Java/Apache Tomcat.md",
+    "Java/Angular in Action.md",
     "Pasted image 20241004100417.png",
     "README.md",
     "Pasted image 20241001133055.png",
