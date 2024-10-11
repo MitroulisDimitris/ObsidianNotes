@@ -62,7 +62,6 @@ set (**required=false**) to not throw error when not finding dependencies
 
 
 **Application Context** loads bean definitions and wires them together.
-
 Is the Central interface to Spring IoC container
 
 
@@ -108,14 +107,11 @@ Application Contexts(Prefered)
 
 Load application context using `FileSystemXmlApplicationContext` 
 
-
-
 ### Spring framework preinstalled ibraries
 ![[Pasted image 20241008141929.png]]
 
 
 ## Implementation
-
 
  Automatic bean wiring:
 - Component scanning -> Automatically discovers Beans, creation in application context
@@ -146,7 +142,87 @@ import org.springframework.context.annotation.Configuration;
 @Configuration public class CDPlayerConfig { }
 ```
 
+---
+
+### Annotations
+
+@Component
+Spring-managed componend (Bean)
+Used on any class to mark it for component scanning
+
+@Controller
+Marks a class as a web controller. web request handler
+
+@Service
+Holds Bussness logic, service layer componend
+is a specialization of @Component
+
+@Repository
+Data Access Object,  interacts with database
+Specialization of @Component, provides automatic database related exceptions, transactions
+
+@Autowired
+Injects class dependencies automatically
+Used in Fields, constructors, setters
+
+@Qualifier
+Specifieas the excact bean to inject when ambiguity arises
+
+```
+@Autowired
+@Qualifier('SpecificService')
+private Service my Service;
+```
+
 @Bean
-public CompactDisc sgtPeppers(){
-return new SgtPeppers();
+Declares a method as a Spring Bean provider
+Used in config classes to define beans
+
+```
+@Bean
+public MyService myService(){
+	return new MyServiceImpl;
 }
+```
+
+@Configuration
+Indicates that a Class declares one or more @Bean methods
+To define application level configurations
+
+@Transactional
+Mark a method for transaction managment
+When applied to a class, method spring creates a transaction around the method, handling rollback logic
+Options:
+	- Propagation ->required,requires_new
+	- isolation -> Read_commited,serializable
+	- timeout
+	- readOnly
+
+
+@RestController
+Marks a class as a RESTful 
+
+
+@RequestMapping
+Map to Urls
+
+@PathVariable
+Extracts values from the URI path
+```
+@RequestMapping("/user/{id}")
+public String getUser(@PathVariable("id") String id) { ... }
+
+```
+
+
+@RequestParam
+Extracts query parameters from the request URL
+```
+@RequestMapping("/search")
+public String search(@RequestParam("q") String query) { ... }
+
+```
+
+@ExceptionHandler
+Handles exceptions thrown from Controller methods
+

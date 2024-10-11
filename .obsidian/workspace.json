@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/ACID properties.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ebf9dde020350ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Spring Data, JPA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/ACID properties.md",
+                "file": "Java/Spring Data, JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/ACID properties.md",
+                "file": "Java/Spring Data, JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/ACID properties.md"
+                "file": "Java/Spring Data, JPA.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deea37ecbe417910",
+  "active": "2ebf9dde020350ec",
   "lastOpenFiles": [
-    "2024-10-08.md",
     "Java/Spring.md",
+    "Lesson Plan.md",
+    "README.md",
+    "Java/Spring Data, JPA.md",
+    "2024-10-08.md",
+    "Java/MVC, Servlets, JSP.md",
+    "Java/ACID properties.md",
     "Pasted image 20241008141929.png",
     "Pasted image 20241008141505.png",
-    "Java/MVC, Servlets, JSP.md",
     "Java/ORM with Hibernate.md",
     "Java/Typescript.md",
     "Java/Notes.md",
-    "Java/ACID properties.md",
     "Java/DAO Design Pattern.md",
     "Java/Electron.md",
     "Java/Basics.md",
@@ -164,7 +179,6 @@
     "Java/Apache Tomcat.md",
     "Java/Angular in Action.md",
     "Pasted image 20241004100417.png",
-    "README.md",
     "Pasted image 20241001133055.png",
     "Pasted image 20241001132811.png",
     "European Dynamics/Climada.md",
@@ -192,7 +206,6 @@
     "2. ML techniques",
     "Machine Learning/Untitled",
     "1. Machine Learning/5. Neural Networks - DL/5.5 Generative Adversarial Networks",
-    "Machine Learning/2. Unsupervised Learning/Untitled.canvas",
-    "Machine Learning/ML Algorithms/Neural Networks/Supervised Learning/Untitled.md"
+    "Machine Learning/2. Unsupervised Learning/Untitled.canvas"
   ]
 }
